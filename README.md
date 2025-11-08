@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/kumarshailesh-codes/super-eureka/blob/main/intro.png"  width="400" alt="ganesh"><br>
+<h1 align="center"><img src="https://github.com/kumarshailesh-codes/kumarshailesh-codes/blob/main/intro.png"  width="400" alt="ganesh"><br>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1EA61A&background=75757500&center=true&vCenter=true&width=435&lines=Namaste+%F0%9F%99%8F;Welcome+to+my+GitHub;Glad+to+see+you+here;I%E2%80%99m+Shailesh+%E2%80%94+a+passionate+coder+%F0%9F%92%BB;Let's+build+something+amazing+%F0%9F%92%BB" alt="Typing SVG" />
