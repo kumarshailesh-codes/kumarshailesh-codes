@@ -194,12 +194,6 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 Let's **build, innovate, and code something amazing!** 🚀  
 
 
-## 📈 My Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumarshailesh-codes&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshailesh-codes&theme=tokyonight" />
-</p>
-
 
 <!-- Thanks For Visiting Section -->
 <details>
