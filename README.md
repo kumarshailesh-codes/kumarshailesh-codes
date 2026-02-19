@@ -17,8 +17,15 @@
 
 ##                                                    🚀Shailesh Kumar | Coder from India 🇮🇳
 
-## \A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects.\  
+<div align="center">
+  <h3>✨ A bit about me...</h3>
+  <p align="center">
+    <i>"A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects."</i>
+  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House&theme=radical&border_radius=10" alt="Quote" />
+</div>
 
+---
 
 <div align="center">
   <table>
