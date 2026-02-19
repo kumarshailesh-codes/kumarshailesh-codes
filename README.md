@@ -203,8 +203,8 @@ Let's **build, innovate, and code something amazing!** 🚀
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" />
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="150" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="250" />
 </div>
 
@@ -216,8 +216,6 @@ Let's **build, innovate, and code something amazing!** 🚀
     <br>
     <i>"I don't always test my code, but when I do, I do it in production."</i> 
     <br><br>
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
-    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200" />
   </p>
   <ul>
     <li>🚦 <b>Code Status:</b> It's not a bug, it's an undocumented feature.</li>
