@@ -15,9 +15,9 @@
   <img src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif" alt="Animated Dev" style="max-width:100%; height:auto; width:60%;" />
 </p>
 
-## 🚀Shailesh Kumar | Coder from India 🇮🇳
+##                                                    🚀Shailesh Kumar | Coder from India 🇮🇳
 
-## A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects.  
+## \A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects.\  
 
 
 <div align="center">
@@ -202,13 +202,6 @@ Let's **build, innovate, and code something amazing!** 🚀
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
-
-
-</p>
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" />
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250" />
@@ -216,20 +209,38 @@ Let's **build, innovate, and code something amazing!** 🚀
 </div>
 
 
-😂 Code Life:
-Fun Edition
- Eats bugs for breakfast (sometimes for dinner too)
+### 😂 Dev Humour & Fun
+<details>
+  <summary>Click for a surprise 😅</summary>
+  <p align="center">
+    <br>
+    <i>"I don't always test my code, but when I do, I do it in production."</i> 
+    <br><br>
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200" />
+  </p>
+  <ul>
+    <li>🚦 <b>Code Status:</b> It's not a bug, it's an undocumented feature.</li>
+    <li>☕ <b>Logic:</b> 1 cup of coffee = 50 lines of code. 10 cups = 1 bug that takes 3 days to find.</li>
+    <li>💤 <b>Sleep:</b> A weak substitute for caffeine.</li>
+  </ul>
+</details>
 
- May accidentally refactor your mood 😆
-
- “Works on my machine!” – Legendary last words
-
- Why did the computer go to therapy? Too many unresolved issues.
-
+---
 “Let’s code, crash, laugh, repeat… then maybe deploy!”
 — Shailesh (probably during a caffeine rush)😂😂
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+
+
+</p>
+
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer" />
+</p>
 
 
 <!---
